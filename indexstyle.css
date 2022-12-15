@@ -1,0 +1,53 @@
+
+/*CSS for header*/
+  header {
+    background-color: #0F6105;
+    padding: 7px;
+    text-align: center;
+    color: black;
+    font-size: xx-large;
+  }
+ 
+ /*CSS for footer*/
+  footer {
+    background-color: #0F6105;
+    color: black;
+    padding: 1px;
+    text-align: center;
+  }
+
+  /*CSS for nav*/
+  nav {
+    background-color: black;
+    color: #6c6c6c;
+    line-height: 30px;
+    float: left;
+    padding: 5px;
+    text-align: left;
+  }
+  
+ /*CSS for table*/
+  table,
+  td,
+  th {
+    border: 3px solid #373737;
+    color: #21354f;
+    font-size: large;
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+    }
+  
+ /*CSS body*/
+  body {
+    background-color: #6c6c6c;
+    font-size: large;
+    color: #21354f;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+  }
+  img{
+    width: 800px;
+    height: 500px;
+  }
